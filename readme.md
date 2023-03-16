@@ -49,7 +49,7 @@
 
 💬 I'm an expert on **web development in React, Node, Express, Mongo, Rails, SQL and Cloud computing.**
 
-📄 Know about my experiences [through my CV](shorturl.at/wxMS1)
+📄 Know about my experiences [through my CV](shorturl.at/czPQS)
 
 <!-- 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**. -->
 
@@ -66,7 +66,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jimuriithiia@gmail.com**
+📫 Reach me on **imuriithiian@gmail.com**
 
 <br />
 
